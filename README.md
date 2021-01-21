@@ -1,4 +1,5 @@
 # By Fabiano Garcia
+  Trata-se de uma aplicação de anotações, como post-it.
 
 # Getting Started with Create React App
 
